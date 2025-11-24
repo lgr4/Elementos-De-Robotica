@@ -50,3 +50,12 @@ El control se realiza mediante las siguientes teclas:
 - **Q**: Detiene la traslación del robot  
 - **R**: Detiene la rotación del robot  
 - **M**: Activar/desactivar electroimán
+
+### Optimización de Energía
+
+El objetivo es hacer que el robot recorra el **camino más corto** entre los materiales metálicos, para optimizar de la mejor manera posible el gasto energético.
+
+<p align="center">
+  <img src="./figs/energy_optimization.gif" alt="Optimización de energía" width="500"/><br/>
+  <sub><b>Demostración del trayecto optimizado</b></sub>
+</p>

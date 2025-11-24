@@ -50,3 +50,12 @@ O controle é feito através das teclas:
 - **Q**: Interrompe a translação do robô.
 - **R**: Interrompe a rotação do robô.
 - **M**: Ativar/desativar eletroímã.
+
+### Otimização de Energia
+
+Foi implementada uma estratégia para maximizar a eficiência da bateria do robô. O intuito é fazer com que o robô calcule e percorra o **menor caminho** entre os materiais metálicos identificados no ambiente, de maneira a otimizar da melhor forma possível o gasto energético durante a coleta.
+
+<p align="center">
+  <img src="./figs/energy_optimization.gif" alt="Otimização de Energia" width="500"/><br/>
+  <sub><b>Demonstração do trajeto otimizado</b></sub>
+</p>
