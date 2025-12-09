@@ -83,17 +83,20 @@ Foi implementada uma estratégia para maximizar a eficiência da bateria do rob�
 
 Para demonstração prática foi montado um protótipo controlado por Arduino com comunicação Bluetooth. Para simplificar a demonstração, o eletroímã foi substituído por um ímã permanente.
 
-Lista de materiais (exemplo):
+Lista de materiais:
 - 1x Arduino Uno
 - 4x Rodas com motores DC
 - 1x Driver de motor (ex.: L298N)
 - 1x Módulo Bluetooth (ex.: HC-05)
 - 2x Baterias 3.7V (Li-Ion)
-- Jumpers e suporte mecânico
+- Suporte da bateria
+- Protoboard 170 pontos
+- Ímã
+- Jumpers
 
 <p align="center">
-  <img src="./figs/robot_moviment.gif" alt="Otimização de Energia" width="300"/><br/>
-  <sub><b>Demonstração da movimentação do robô</b></sub>
+  <img src="./figs/prototype_collection.gif" alt="Demonstração do funcionamento do protótipo" width="400"/><br/>
+  <sub><b>Demonstração do funcionamento do protótipo</b></sub>
 </p>
 
 ## Estrutura do repositório
