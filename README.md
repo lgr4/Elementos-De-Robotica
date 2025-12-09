@@ -68,7 +68,7 @@ O controle é feito através das teclas:
 Foi implementada uma estratégia para maximizar a eficiência da bateria do robô. O intuito é fazer com que o robô calcule e percorra o **menor caminho** entre os materiais metálicos identificados no ambiente, de maneira a otimizar da melhor forma possível o gasto energético durante a coleta.
 
 <p align="center">
-  <img src="./figs/energy_optimization.gif" alt="Otimização de Energia" width="500"/><br/>
+  <img src="./figs/energy_optimization.gif" alt="Otimização de Energia" width="600"/><br/>
   <sub><b>Demonstração do trajeto otimizado</b></sub>
 </p>
 
@@ -92,7 +92,7 @@ Lista de materiais (exemplo):
 - Jumpers e suporte mecânico
 
 <p align="center">
-  <img src="./figs/robot_moviment.gif" alt="Otimização de Energia" width="200"/><br/>
+  <img src="./figs/robot_moviment.gif" alt="Otimização de Energia" width="300"/><br/>
   <sub><b>Demonstração da movimentação do robô</b></sub>
 </p>
 
@@ -105,6 +105,6 @@ elementos-de-robotica/
 │   ├── robot_movimentation.ttt
 │   └── smart_metal_collector.ttt
 ├── figs/                   # Imagens e GIFs da documentação
-├── README.md               # Documentação em Português
-└── README_es.md            # Documentación en Español
+├── LICENSE                 # Licença do projeto
+├── README.md               # Documentação
 ```
